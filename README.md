@@ -75,16 +75,16 @@ num_outputs             = 4
 weight_mutate_rate      = 0.8
 
 More settings are available in the full file.
-
+```
 ## How to Run
 
 ### Install dependencies:
 
-```bash
+```ini
 pip install pygame neat-python
-
+```
 Run the simulation:
-
+```ini
 python main.py
-
+```
 Your environment should include a 2D map with a black background and white borders.
