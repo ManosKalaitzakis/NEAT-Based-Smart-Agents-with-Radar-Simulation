@@ -53,7 +53,7 @@ Over time, the population improves and becomes better at navigating.
 
 ## NEAT Configuration
 
-Basic configuration (in `config-feedforward.txt`):
+Basic configuration (in `config.txt`):
 
 ```ini
 [NEAT]
