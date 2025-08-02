@@ -1,6 +1,13 @@
 # NEAT-Based Agent Navigation with Radar Sensors
 
-![Video Preview](./Files/Generations.mp4)
+[<img src="https://i.ibb.co/TBVbvbFh/radar-screenshot.png" width="600" height="300" />](https://www.youtube.com/watch?v=BfT59WTaQ8A)
+
+<video width="600" height="340" controls>
+  <source src="https://github.com/ManosKalaitzakis/NEAT-Based-Smart-Agents-with-Radar-Simulation/raw/main/files/Generations%20Progress.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video src="https://github.com/ManosKalaitzakis/NEAT-Based-Smart-Agents-with-Radar-Simulation/raw/main/files/Generations%20Progress.mp4" width="320" height="240" controls></video>
 
 This project uses the NEAT (NeuroEvolution of Augmenting Topologies) algorithm to train agents to navigate an environment using only simulated radar sensors.
 
